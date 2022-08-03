@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trinhminhtriet/npm-card.git"
+    "url": "git+https://github.com/trinhminhtriet/card.git"
   },
   "homepage": "https://trinhminhtriet.com",
   "scripts": {
@@ -37,7 +37,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/trinhminhtriet/npm-card/issues"
+    "url": "https://github.com/trinhminhtriet/card/issues"
   },
   "dependencies": {}
 }
