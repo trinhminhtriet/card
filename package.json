@@ -6,10 +6,7 @@
   "bin": {
     "trinhminhtriet": "./bin/card.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/trinhminhtriet/card.git"
-  },
+  "repository": "https://github.com/trinhminhtriet/card",
   "homepage": "https://trinhminhtriet.com",
   "scripts": {
     "prepublish": "npm run build",
