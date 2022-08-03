@@ -1,0 +1,6 @@
+# Usage
+
+## npm
+```
+npx trinhminhtriet
+```
